@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "685297662197",
+    "project_id": "bank-g6jqpj",
+    "storage_bucket": "bank-g6jqpj.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:685297662197:android:082d65c7cd45aa3c07edbc",
+        "android_client_info": {
+          "package_name": "com.flutterflow.finwallet"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD5wqNSRFaKdiwnQQSjtovCmx5EvU8bc6M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

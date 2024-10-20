@@ -1,0 +1,2 @@
+PermissionGroupNotification = "To receive notifications, this app requires permission. Do you agree?";
+NSLocationWhenInUseUsageDescription = "To access your location, this app requires permission. Do you agree?";
